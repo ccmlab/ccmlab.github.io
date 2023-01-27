@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Babylon.Blazor.dll": "sha256-UOWi8XBmmD0KqBzhocHpvBeb2iryghFbw2Rdmpv7Jlw=",
-      "ccmlanim.dll": "sha256-nH0g79B9uppuAgDBfDNU3p5oeQIQmc6ATL5YwBvIZRQ=",
+      "ccmlanim.dll": "sha256-q4on4FVZRCttdSQcbJxOZ2jadnl9Eqe2+Lx8xHwNz3s=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PlRNvTAAF2V3b0Kv+bZdfcpEfGXV\/44kCXdHp4Zein4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-CqjgLzzZwv7F4s+S4K1bhK5MxHLAwzuuHeDyIpP2bQg=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2Jg3mQhCSyqkofbgXHMRw0whL7fAl07+VKYd0lApk7I=",
